@@ -1,0 +1,3 @@
+# el numeral se utiliza para agregar comentarios y el asterisco para darle la referencia de que tiene que ignorar
+*.txt
+# De esta forma haremos que el git bash ignore todos los archivos que tengan la extencion de txt
